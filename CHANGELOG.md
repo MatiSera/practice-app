@@ -4,6 +4,7 @@ My custom changelog template. Don’t worry about indentation here; it is automa
 as 
 Every release has a Unreleased and a  you can use to link to the commit diff.
 It also has an 2021-07-27 and a 27 July 2021 you might want to use.
+- A merge has a Feature/123/cositas, an 21 and a https://github.com/MatiSera/practice-app/pull/21 to the PR.
 - A merge has a Fix version number, release #1, an 20 and a https://github.com/MatiSera/practice-app/pull/20 to the PR.
 - A merge has a Release cositas, an 19 and a https://github.com/MatiSera/practice-app/pull/19 to the PR.
 - A merge has a Cambios, an 18 and a https://github.com/MatiSera/practice-app/pull/18 to the PR.
@@ -15,4 +16,5 @@ It also has an 2021-07-27 and a 27 July 2021 you might want to use.
 - Commits have a 142fb32, a Lindo commit, con cistas and a https://github.com/MatiSera/practice-app/commit/142fb32195972f05a8942c093ec07c135935cc3c, amongst other things.
 - Commits have a 35d5c4f, a cambios extras and a https://github.com/MatiSera/practice-app/commit/35d5c4fd1d17236156fa325df0a8321455cb8d31, amongst other things.
 - Commits have a aabfeb0, a Run command and a https://github.com/MatiSera/practice-app/commit/aabfeb04b5024228fd2d9364ac584efa1b15aa98, amongst other things.
+- Commits have a 483cac4, a Soy matias and a https://github.com/MatiSera/practice-app/commit/483cac4ac8e5c93c6a42b35e8117c495a245bfb6, amongst other things.
 - Commits have a 799038e, a Initial commit and a https://github.com/MatiSera/practice-app/commit/799038e307bade1e4febcdb13b33ebd68818cc20, amongst other things.

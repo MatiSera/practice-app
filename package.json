@@ -1,4 +1,3 @@
-
 {
   "name": "utils-app",
   "version": "4.1.29",
@@ -38,5 +37,8 @@
     "template": "keepachangelog",
     "unreleased": true,
     "commitLimit": false
+  },
+  "devDependencies": {
+    "auto-changelog": "^2.3.0"
   }
 }
