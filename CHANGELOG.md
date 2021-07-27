@@ -1,8 +1,10 @@
 ### Changelog
 My custom changelog template. Don’t worry about indentation here; it is automatically removed from the output.
 
+as 
 Every release has a Unreleased and a  you can use to link to the commit diff.
 It also has an 2021-07-27 and a 27 July 2021 you might want to use.
+- A merge has a Fix version number, release #1, an 20 and a https://github.com/MatiSera/practice-app/pull/20 to the PR.
 - A merge has a Release cositas, an 19 and a https://github.com/MatiSera/practice-app/pull/19 to the PR.
 - A merge has a Cambios, an 18 and a https://github.com/MatiSera/practice-app/pull/18 to the PR.
 - A merge has a Changelog test, an 17 and a https://github.com/MatiSera/practice-app/pull/17 to the PR.
