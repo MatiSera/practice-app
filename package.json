@@ -1,6 +1,6 @@
 {
   "name": "utils-app",
-  "version": "4.1.29",
+  "version": "4.2.29",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "version": "auto-changelog --template changelog-template.hbs"
+    "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "eslintConfig": {
     "extends": "react-app"
