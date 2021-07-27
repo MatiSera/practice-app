@@ -32,5 +32,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": true,
+    "commitLimit": false
   }
 }
