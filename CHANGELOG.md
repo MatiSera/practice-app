@@ -12,6 +12,7 @@ It also has an 2021-07-27 and a 27 July 2021 you might want to use.
 - Commits have a 8450411, a nive and a https://github.com/MatiSera/practice-app/commit/8450411420d29adaffd41d8cdc3b48a034e24a94, amongst other things.
 - Commits have a d3185bd, a Add auto changelog, Change title and a https://github.com/MatiSera/practice-app/commit/d3185bd8ede8992806fed5176a6f60d59f03a8e2, amongst other things.
 - Commits have a 833f51d, a "abs"1 and a https://github.com/MatiSera/practice-app/commit/833f51d132a0a71394477e71a9af50ce73ef06c0, amongst other things.
+- Commits have a 142fb32, a Lindo commit, con cistas and a https://github.com/MatiSera/practice-app/commit/142fb32195972f05a8942c093ec07c135935cc3c, amongst other things.
 - Commits have a 35d5c4f, a cambios extras and a https://github.com/MatiSera/practice-app/commit/35d5c4fd1d17236156fa325df0a8321455cb8d31, amongst other things.
 - Commits have a aabfeb0, a Run command and a https://github.com/MatiSera/practice-app/commit/aabfeb04b5024228fd2d9364ac584efa1b15aa98, amongst other things.
 - Commits have a 799038e, a Initial commit and a https://github.com/MatiSera/practice-app/commit/799038e307bade1e4febcdb13b33ebd68818cc20, amongst other things.
